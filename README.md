@@ -78,8 +78,3 @@ Substitua `seu_script.py` pelo nome real do seu arquivo Python (e.g., `dashboard
 ## Contribuição
 
 Sinta-se à vontade para bifurcar (fork) este repositório, sugerir melhorias ou relatar problemas.
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT.
-```
